@@ -1,0 +1,4 @@
+logfile.log
+tests/config.py
+.idea/
+.pytest_cache/
